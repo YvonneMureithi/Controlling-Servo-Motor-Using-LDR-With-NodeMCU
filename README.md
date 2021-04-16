@@ -1,1 +1,1 @@
-# Controlling-Servo-Motor-Using-LDR-With-NodeMCU
+# Controlling Servo Motor Using LDR With NodeMCU
