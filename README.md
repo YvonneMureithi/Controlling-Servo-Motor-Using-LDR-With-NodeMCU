@@ -38,6 +38,3 @@ Max Power Dissipation: 200mW.
 Power: 3.3V,
 GND: Ground pins,
 Vin: External Power Supply.
-
-##Breadboard Layout
-
