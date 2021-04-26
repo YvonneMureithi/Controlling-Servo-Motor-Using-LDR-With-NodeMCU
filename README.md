@@ -40,4 +40,4 @@ GND: Ground pins,
 Vin: External Power Supply.
 
 ## Breadboard Layout
-![Breadboard layout](Controlling%20SG90%20with%20LDR%20and%20NodeMCU_bb.png)
+![Breadboard layout](Fritzing/Controlling%20SG90%20with%20LDR%20and%20NodeMCU_bb.png)
